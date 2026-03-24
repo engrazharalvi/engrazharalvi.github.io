@@ -1,3 +1,5 @@
+import profileImg from '../assets/profile.jpg';
+
 export const portfolioData = {
   personalInfo: {
     name: "Azhar Ali Mubashar",
@@ -7,7 +9,7 @@ export const portfolioData = {
     email: "engr.azhar429@gmail.com",
     location: "Saudi Arabia",
     iqama: "Transferable Iqama",
-    profileImage: "/src/assets/profile.jpg",
+    profileImage: profileImg,
     resumeLink: "/CV_Azhar_Ali_Mubashar.pdf"
   },
   summary: "Experience of working at a variety of Engineering fields including Oil & Gas, Metro Train, Water Quality Improvement Projects, Industrial Projects, Pumping Station etc. Looking forward to connecting with an organization to advance my professional career in BMS and ELV System Engineering.",
